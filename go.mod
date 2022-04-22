@@ -10,9 +10,8 @@ require (
 	github.com/apparentlymart/go-versions v1.0.1
 	github.com/aws/aws-sdk-go v1.37.2
 	github.com/davecgh/go-spew v1.1.1
-	github.com/go-openapi/jsonreference v0.19.6 // indirect
-	github.com/go-openapi/swag v0.19.15 // indirect
 	github.com/go-test/deep v1.0.3
+	github.com/gofrs/uuid v4.0.0+incompatible // indirect
 	github.com/google/go-cmp v0.5.6
 	github.com/gorilla/mux v1.8.0
 	github.com/gusaul/go-dynamock v0.0.0-20210107061312-3e989056e1e6
@@ -38,20 +37,18 @@ require (
 	github.com/mitchellh/go-wordwrap v1.0.1 // indirect
 	github.com/mitchellh/panicwrap v1.0.0
 	github.com/pmezard/go-difflib v1.0.0
+	github.com/shopspring/decimal v1.2.0 // indirect
 	github.com/sirupsen/logrus v1.7.0
 	github.com/spf13/afero v1.2.2
 	github.com/stretchr/testify v1.7.0
-	github.com/swaggo/files v0.0.0-20210815190702-a29dd2bc99b2 // indirect
-	github.com/swaggo/http-swagger v1.1.1
-	github.com/swaggo/swag v1.7.3
+	github.com/swaggo/http-swagger v1.2.6
+	github.com/swaggo/swag v1.7.9
 	github.com/zclconf/go-cty v1.9.0
 	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a
 	golang.org/x/mod v0.4.2
 	golang.org/x/net v0.0.0-20211005001312-d4b1ae081e3b
 	golang.org/x/sys v0.0.0-20211004093028-2c5d950f24ef // indirect
-	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/time v0.0.0-20201208040808-7e3f01d25324 // indirect
-	golang.org/x/tools v0.1.7 // indirect
 	google.golang.org/api v0.44.0-impersonate-preview
 	gopkg.in/yaml.v2 v2.4.0
 	gorm.io/datatypes v1.0.1
